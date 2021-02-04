@@ -18,17 +18,17 @@ from zipfile import ZipFile
 
 SIZE = 416
 
-# images_num_train = 1000
-# images_num_val = 250
-# model_dir = "../01_1K_MNIST/"
+images_num_train = 1000
+images_num_val = 250
+model_dir = "../01_1K_MNIST/"
 
 # images_num_train = 13700
 # images_num_val = 3425
 # model_dir = "../11_14K_MNIST/"
 
-images_num_train = 117266
-images_num_val = 4952
-model_dir = "../21_117K_MNIST/"
+# images_num_train = 117266
+# images_num_val = 4952
+# model_dir = "../21_117K_MNIST/"
 
 image_sizes = [3, 6, 3] # small, medium, big
 
@@ -107,7 +107,7 @@ for file in ["train", "val"]:
             print('Done!')
 """
 
-for file in ['train','val']:
+for file in ['train','test']:
     # images_path = os.getcwd()+f"/mnist_{file}"
     # labels_txt = os.getcwd()+f"/mnist_{file}.txt"
     
@@ -118,7 +118,7 @@ for file in ['train','val']:
     if file == 'train':
         images_num = images_num_train
         image_dir = model_dir+"mnist_train/"
-    if file == 'val':
+    if file == 'test':
         images_num = images_num_val
         image_dir = model_dir+"mnist_val/"
         
