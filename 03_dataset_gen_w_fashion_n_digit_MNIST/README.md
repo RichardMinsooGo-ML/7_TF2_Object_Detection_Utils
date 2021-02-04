@@ -9,19 +9,19 @@ mnist 폴더에 있는 압축 파일을 해재하세요.
 
         images_num_train = 1000
         images_num_val = 250
-        model_dir = "../01_1K_MNIST/"
+        model_dir = "../02_1K_Fashion_MNIST/"
 
 2) 13700 개의 training sets
 
         images_num_train = 13700
         images_num_val = 3425
-        model_dir = "../11_14K_MNIST/"
+        model_dir = "../12_14K_Fashion_MNIST/"
 
 3) 117266 개의 training sets
 
         images_num_train = 117266
         images_num_val = 4952
-        model_dir = "../21_117K_MNIST/"
+        model_dir = "../22_117K_Fashion_MNIST/"
 
 ## EN> 
 
@@ -32,17 +32,17 @@ Unzip files at mnist folder.
 
         images_num_train = 1000    
         images_num_val = 250    
-        model_dir = "../01_1K_MNIST/"
+        model_dir = "../02_1K_Fashion_MNIST/"
 
 2) training sets : 13700 EA
 
         images_num_train = 13700    
         images_num_val = 3425    
-        model_dir = "../11_14K_MNIST/"
+        model_dir = "../12_14K_Fashion_MNIST/"
 
 3) training sets : 117266EA
 
         images_num_train = 117266    
         images_num_val = 4952    
-        model_dir = "../21_117K_MNIST/"
+        model_dir = "../22_117K_Fashion_MNIST/"
 
