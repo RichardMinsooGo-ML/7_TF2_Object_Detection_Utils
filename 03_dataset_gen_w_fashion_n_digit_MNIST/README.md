@@ -2,7 +2,7 @@
 
 ## KR> 
 
-해당 폴더에서는 MNIST 데이터를 객체 감지를 위한 이미지를 생성하는 프로그램이다.
+해당 폴더에서는 fashion MNIST + MNIST 데이터를 객체 감지를 위한 이미지를 생성하는 프로그램이다.
 mnist 폴더에 있는 압축 파일을 해재하세요.
 
 1) 1000 개의 training sets
@@ -25,7 +25,7 @@ mnist 폴더에 있는 압축 파일을 해재하세요.
 
 ## EN> 
 
-This folder have a python file that can generate Object Detection images from MNIST.
+This folder have a python file that can generate Object Detection images from fashion MNIST + MNIST.
 Unzip files at mnist folder.
 
 1) training sets : 1000 EA
