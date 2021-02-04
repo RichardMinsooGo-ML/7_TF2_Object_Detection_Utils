@@ -7,9 +7,9 @@
 1) 1000 개의 training sets
 
     images_num_train = 1000
-    
+
     images_num_val = 250
-    
+
     model_dir = "../01_1K_MNIST/"
 
 2) 13700 개의 training sets
