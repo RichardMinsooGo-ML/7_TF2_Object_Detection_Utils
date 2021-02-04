@@ -18,13 +18,13 @@ from zipfile import ZipFile
 
 SIZE = 416
 
-# images_num_train = 1000
-# images_num_val = 250
-# model_dir = "../02_1K_Fashion_MNIST/"
+images_num_train = 1000
+images_num_val = 250
+model_dir = "../02_1K_Fashion_MNIST/"
 
-images_num_train = 13700
-images_num_val = 3425
-model_dir = "../12_14K_Fashion_MNIST/"
+# images_num_train = 13700
+# images_num_val = 3425
+# model_dir = "../12_14K_Fashion_MNIST/"
 
 # images_num_train = 117266
 # images_num_val = 4952
