@@ -15,6 +15,7 @@ https://storage.googleapis.com/openimages/web/index.html
 https://drive.google.com/drive/folders/1H6daKQjZWsgalg3eXeKObVb__OlYbYFD?usp=sharing
 
 * Download lists
+
       class-descriptions-boxable.csv
       oidv6-train-annotations-bbox.csv
       test-annotations-bbox.csv
