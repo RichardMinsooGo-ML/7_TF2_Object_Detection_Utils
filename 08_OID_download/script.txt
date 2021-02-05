@@ -1,0 +1,5 @@
+python downloader.py val/Image_list_file_val.txt --download_folder=val/images_val --num_processes=30
+
+python downloader.py test/Image_list_file_test.txt --download_folder=test/images_test --num_processes=30
+
+python downloader.py train/Image_list_file_train.txt --download_folder=train/images_train --num_processes=30
