@@ -8,13 +8,18 @@
 
 Download class file and annotation files from OID official site or from my Google Drive.
 
-* OID V6 official site
+* OID V6 official site :
 https://storage.googleapis.com/openimages/web/index.html
 
-* My Google Drive
+* My Google Drive :
+https://drive.google.com/drive/folders/1H6daKQjZWsgalg3eXeKObVb__OlYbYFD?usp=sharing
 
 * Download lists
 
+      class-descriptions-boxable.csv
+      oidv6-train-annotations-bbox.csv
+      test-annotations-bbox.csv
+      validation-annotations-bbox.csv
 
 
 
