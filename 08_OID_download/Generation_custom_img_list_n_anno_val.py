@@ -4,8 +4,8 @@ import csv
 import pandas as pd 
 
 import os
-if not os.path.exists('test'):
-    os.makedirs('test')
+if not os.path.exists('val'):
+    os.makedirs('val')
     
 data = pd.read_csv("validation-annotations-bbox.csv") 
 
