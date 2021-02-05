@@ -1,23 +1,15 @@
-# Template level 1
+## KR
 
-Add comment for level 1
+해당 폴더에서는 COCO json 파일을 text 형태로 변환시키는 예제이다.
 
-## Template level 2
-
-Add comment for level 2
-
-## Template level 2
-
-Add comment for level 2
+해당 폴더의 구조와 같이 json파일을 준비후에 파이썬 파일을 실행하면 text 형태로 변환된다.
 
 
-### Template level 3
+## EN
 
-Add comment for level 3
+In this folder, there is python files that convert COCO json to text format.
 
+Prepare COCO json file like this folder stucture then execute python file.
 
-### Template level 3
-
-Add comment for level 3
-
+Then you can get text formats.
 
