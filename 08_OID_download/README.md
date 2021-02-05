@@ -4,7 +4,7 @@
 
 예제 파일은 30 개의 class로 이루어져 있다.
 
-## Step 1
+## Step 1 : Download class and annotation files
 
 Download class file and annotation files from OID official site or from my Google Drive.
 
@@ -15,11 +15,16 @@ https://storage.googleapis.com/openimages/web/index.html
 https://drive.google.com/drive/folders/1H6daKQjZWsgalg3eXeKObVb__OlYbYFD?usp=sharing
 
 * Download lists
-
       class-descriptions-boxable.csv
       oidv6-train-annotations-bbox.csv
       test-annotations-bbox.csv
       validation-annotations-bbox.csv
+
+## Step 2 : Select classes for customizing
+
+* 
+
+* 
 
 
 
