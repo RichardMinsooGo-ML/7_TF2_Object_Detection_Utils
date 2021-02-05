@@ -73,7 +73,7 @@ There are 30 classes sample. Please follow step by step.
 
 ## Step 1 : Download class and annotation files
 
-* Preparation files
+* Files to be downloaded
 
       class-descriptions-boxable.csv
       oidv6-train-annotations-bbox.csv
